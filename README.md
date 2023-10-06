@@ -9,7 +9,7 @@ I'm passionate about programming and constantly expanding my knowledge in web de
 
 ## Connect with Me
 
-- GitHub: (https://github.com/dem2001)
+- GitHub: https://github.com/dem2001
 - Twitter: https://twitter.com/dem_lolz
 
 You can reach out to me on discord for questions and more stuff if you want!😃
