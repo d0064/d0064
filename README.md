@@ -1,6 +1,6 @@
 # Hi there, I'm Dem! 👋
 
-I'm passionate about programming and constantly expanding my knowledge in web development. Currently, I'm focused on learning Node.js, JavaScript, HTML, and CSS to build awesome web applications and websites.
+I'm passionate about programming and constantly expanding my knowledge in web development. Currently, I'm focused on learning Node.js, JavaScript, HTML, and CSS to build web applications and websites.
 
 ## About Me
 
