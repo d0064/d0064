@@ -1,6 +1,6 @@
 # Hello, I'm d0064 and this is my profile
 
-Below this text are the programming languages I have started to learn.
+I want to learn a lot of programming languages, but I'm mostly focusing on these two:
 
 <div align="center">
   <h3>Programming Languages</h3>
@@ -12,8 +12,13 @@ Below this text are the programming languages I have started to learn.
 
 ---
 
-I started exploring programming in 2020 with HTML, CSS, and JavaScript. These languages were one of the only ones that i used to focus before moving to others
+I started exploring programming in 2020 with HTML, CSS, and JavaScript. These languages fascinated me with their ability to create interactive web content.
 
-I'm excited about learning backend development, databases, and frameworks. Programming, for me is very fun and i enjoy learning it.
+I'm particularly interested in learning PHP and Ruby to learn more in web development. While i wanna learn almost everything about programming which is not possible, these two are the only ones ive been focusing on since the start.
 
-Feel free to connect with me on Discord at `tutucidem`. 😊
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+</div>
+
+Feel free to connect with me on Discord at `tutucidem`. Ask any question you want or lets just chat! 😊
