@@ -12,7 +12,7 @@ I want to learn a lot of programming languages, but I'm mostly focusing on these
 
 ---
 
-I started exploring programming in 2020 with HTML, CSS, and JavaScript. These languages fascinated me with their ability to create interactive web content.
+I started exploring programming in 2020 with HTML, CSS, and JavaScript. These languages were the only one i wanted to learn which was hard because i didnt know alot about programming back then.
 
 I'm particularly interested in learning PHP and Ruby to learn more in web development. While i wanna learn almost everything about programming which is not possible, these two are the only ones ive been focusing on since the start.
 
