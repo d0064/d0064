@@ -21,4 +21,4 @@ I'm particularly interested in learning PHP and Ruby to learn more in web develo
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
 </div>
 
-Feel free to connect with me on Discord at `d_0_0_64`. Ask any question you want or lets just chat! 😊
+Feel free to connect with me on Discord at `demidemia`. Ask any question you want or lets just chat! 😊
