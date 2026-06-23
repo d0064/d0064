@@ -17,7 +17,7 @@
 - Since 2020, I’ve been learning how to build for the web with HTML, CSS, and JavaScript.
 - Currently exploring back-end fundamentals with Node.js, plus PHP and Ruby to deepen my web dev skills.
 - I enjoy learning by making small, practical projects and improving them step by step.
-- Reach me on Discord: `outofservice_1`.
+- Reach me on Discord: `demidemia`.
 
 ### Tech I use / learning
 <div align="center">
